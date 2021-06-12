@@ -11,3 +11,7 @@ Trying out some markdown syntax:
 - _this is italic_ -> single \* or \_
 - _we can even **combine** them_
 - backticks for `inline code`. Also called grave accent.
+
+```javascript
+this is a code block for javascript.
+```
