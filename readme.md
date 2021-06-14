@@ -18,3 +18,7 @@ this is a code block for javascript.
 
 - Image test below (taken from code.visualstudio.com)
 ![Visual Studio Code Logo](https://code.visualstudio.com/opengraphimg/opengraph-blog.png)
+
+Let's test out some emojis as well.
+- 😊
+- 😍 It worked!
